@@ -54,8 +54,7 @@ gem 'gibbon'
 gem 'high_voltage'
 # Form made easy
 gem 'simple_form'
-
-gem 'sendgrid-ruby'
+#gem 'sendgrid-ruby'
 group :development do
 # help when thing when wrong
   gem 'better_errors'
